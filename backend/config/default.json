@@ -1,0 +1,6 @@
+{
+    "mongo_url": "mongodb://eya:eya@mongo:27017",
+    "jwtSecret": "jwtSecret",
+    "tokenExpire": "2592000"
+
+    }
